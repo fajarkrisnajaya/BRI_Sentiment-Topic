@@ -1,4 +1,4 @@
-# Sentiment Analysis and Metrics on Tweets about BRI
+# Sentiment Analysis and Topic Modelling on Tweets about BRI
 
 This Jupyter Notebook contains code and analysis for sentiment and other metrics related to tweets about BRI Bank Indonesia. The dataset used is comprised of tweets from @BANKBRI_ID collected in December 2022, scraped using snscrape.
 
